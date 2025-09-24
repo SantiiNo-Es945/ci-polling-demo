@@ -1,6 +1,6 @@
 pipeline {
   agent any
   stages {
-    stage('Hello') { steps { echo 'Polling test run #2' } }
+    stage('Hello') { steps { echo 'Polling test run #4' } }
   }
 }
